@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_background">App background</string>
+    <string name="password_restriction">Password must be at least 8 characters long</string>
+    <string name="password">Password</string>
+    <string name="forgotten_password">Forgotten password?</string>
+    <string name="login">Login</string>
+    <string name="insurance_event_url">https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default</string>
+    <string name="financial_information_url">https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default</string>
+    <string name="policies_title">Поліси</string>
+    <string name="contact_us">Зв’язатися з нами</string>
+    <string name="insurance_event_actions">Дії під час страхового випадку</string>
+    <string name="financial_information">Фінансова інформація</string>
+    <string name="view_documents">Переглянути документи</string>
+    <string name="patient">Пацієнт: %1$s</string>
+    <string name="medical_id">Медичний ID: %1$s</string>
+    <string name="validity_period">Строки дії: %1$s</string>
+</resources>
